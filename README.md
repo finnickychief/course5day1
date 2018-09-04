@@ -9,3 +9,5 @@ Index3: Conditional logic
 Index4: Loops
 
 Index5: Array methods
+
+functionTests: self-guided Javascript test problems. Run specRunner in a browser, and modify src/javascript.js to fulfill the tests.
