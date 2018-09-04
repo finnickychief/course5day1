@@ -3,3 +3,5 @@
 Index1: Variable types and usage
 
 Index2: Functions(up until this point)
+
+Index3: Conditional logic
